@@ -13,3 +13,7 @@ světle šedá: #f0f0f0
 */
 
 /* --- pod tuto čáru piš svoje CSS --- */
+
+.rounded-circle {
+    max-width: 50%;
+}
